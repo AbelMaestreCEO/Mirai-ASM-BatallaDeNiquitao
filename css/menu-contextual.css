@@ -1,0 +1,125 @@
+/* Menu Contectual INICIO*/
+
+#menu-contextual {
+  display: none; /* Ocultar el menú contextual por defecto */
+  position: absolute;
+  z-index: 9999;
+  padding-right: 1vw;
+  padding-left: 1vw;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  border-radius: 2vw;
+  list-style: none;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,'Open Sans', 'Helvetica Neue', sans-serif;
+}
+  
+#menu-contextual.visible {
+  display: block; /* Mostrar el menú contextual cuando es visible */
+}
+
+#menu-contextual li {
+  padding-left: 2vw;
+  padding-right: 2vw;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+}
+
+#menu-contextual li:hover {
+  background-color: #d5d5d5;
+  cursor: pointer;
+  border-radius: 1vw;
+}
+/* Menu Contectual FIN*/
+.div-menu{
+  display: inline-block;
+  width: 100%;
+}
+.div-menu2:hover{
+  background-color: #d5d5d5;
+  cursor: pointer;
+  border-radius: 1vw;
+  width: 100%;
+}
+.boton-menu-contextual{
+  padding:1%;
+  aspect-ratio: 1/1;
+  box-sizing: border-box;
+  border-radius: 30%;
+  float:left;
+  margin-top: 1vh;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  margin-bottom: 1vh;
+  background-size: cover;
+  background-position: center;
+}
+.boton-menu-contextual:hover{
+  border-radius: 100%;
+}
+.boton-contextual-pequeño{
+  width: 2.5vw;
+}
+
+.boton-contextual-grande{
+  width: 6vw;
+}
+
+.boton-contextual-copiar{
+  background-image: url(../images/Contextual/Copiar.svg);
+}
+
+.boton-contextual-pegar{
+  background-image: url(../images/Contextual/Pegar.svg);
+}
+
+.boton-contextual-cortar{
+  background-image: url(../images/Contextual/Cortar.svg);
+}
+
+.boton-contextual-actualizar{
+  background-image: url(../images/Contextual/Actualizar.svg);
+}
+
+.boton-contextual-morado{
+  background-image: url(../images/Contextual/Morado.webp);
+}
+
+.boton-contextual-verde{
+  background-image: url(../images/Contextual/Verde.webp);
+}
+
+.boton-contextual-naranja{
+  background-image: url(../images/Contextual/Naranja.webp);
+}
+
+.boton-contextual-azul{
+  background-image: url(../images/Contextual/Azul.webp);
+}
+
+.boton-contextual-sydney{
+  background-image: url(../images/Contextual/Sydney.webp);
+}
+
+.boton-contextual-seleccionar{
+  background-image: url(../images/Contextual/Seleccionar.svg);
+}
+
+.boton-contextual-tema{
+  background-image: url(../images/Contextual/Tema.svg);
+}
+
+.boton-contextual-borrar{
+  background-image: url(../images/Contextual/Borrar.svg);
+}
+
+.boton-contextual-celeste{
+  background-image: url(../images/Contextual/Celeste.webp);
+}
+
+.boton-contextual-mirai{
+  background-image: url(../images/Contextual/Mirai.webp);
+}
+
+.boton-contextual-ayuda{
+  background-image: url(../images/Contextual/Ayuda.svg);
+}

@@ -1,0 +1,13 @@
+#Carga tu propia página de error 404
+
+ErrorDocument 404 /errores/404.php
+
+#Carga tu propia página de error 403
+
+ErrorDocument 403 /errores/403.php
+
+#Index predeterminado
+
+#DirectoryIndex /index.php
+
+Options All -Indexes

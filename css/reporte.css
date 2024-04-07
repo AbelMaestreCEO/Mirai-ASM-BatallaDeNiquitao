@@ -1,0 +1,137 @@
+table {
+  border-collapse: collapse;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px; 
+}
+
+th {
+  background-color: #F2F2F2;
+}
+
+tr:nth-child(even) {
+  background-color: #F8F8F8;
+}
+
+
+table {
+  border: 1px solid #ddd;
+  background-color: white;
+}
+
+.fondo-blanco{
+  background-color: white;
+}
+
+.titulo-reporte{
+font-size: 24px;
+color: #f5f5f5;
+}
+
+.encabezado{
+font-size: 12px;
+}
+
+.fuente-sistema{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.bold{
+font-weight: bold;
+}
+
+.italic{
+font-style: italic;
+}
+
+.text-center{
+text-align: center;
+}
+
+.linea{
+position: absolute;
+margin-top: -35px;
+}
+
+.texto-izquierda{
+float: left;
+margin-top: 50px;
+}
+
+.firma-izquierda{
+float: left;
+}
+
+.texto-derecha{
+float: right;
+margin-top: 50px;
+}
+
+.firma-derecha{
+float: right;
+}
+
+.informacion{
+min-width: 100%;
+min-height: 10%;
+}
+
+.a{
+min-width: 49%;
+min-height: 10%;
+float: left;
+}
+
+.b{
+min-width: 49%;
+min-height: 10%;
+float: right;
+}
+
+.c{
+position: relative;
+display:table;
+margin-left:auto;
+margin-right:auto;
+min-width: 55%
+}
+
+.sello{
+margin-left:auto;
+margin-right:auto;
+}
+
+.borde{
+border: 1px solid black;
+}
+
+.menu-reporte{
+  min-width: 5vw;
+  padding: 5px 5px;
+  position: absolute;
+  border-radius: 1vw;
+}
+
+.boton-menu-reporte{
+  width: 2.25vw;
+  padding:1%;
+  aspect-ratio: 1/1;
+  box-sizing: border-box;
+  border-radius: 25%;
+  margin-top: 0.5vh;
+  margin-bottom: 0.5vh;
+  margin-left: 0.5vw;
+  margin-right: 0.5vw;
+  background-size: cover;
+  background-position: center;
+  display: inline-block;
+}
+.boton-menu-reporte:hover{
+  cursor: pointer;
+  border-radius: 100%;
+}

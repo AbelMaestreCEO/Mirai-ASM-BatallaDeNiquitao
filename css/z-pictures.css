@@ -1,0 +1,254 @@
+.zp-mirai{
+    animation: carrusel-mirai 10s infinite alternate;
+}
+@keyframes carrusel-mirai {
+    0% {
+        background-image: url(../images/Z-Pictures/Abella.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 0% 0%;
+    }
+    25% {
+        background-image: url(../images/Z-Pictures/Katana.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 25% 25%;
+    }
+    50% {
+        background-image: url(../images/Z-Pictures/Mirai.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50% 50%;
+    }
+    75% {
+        background-image: url(../images/Z-Pictures/Sydney.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 75% 75%;
+    }
+    100% {
+        background-image: url(../images/Z-Pictures/Abella.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 100% 100%;
+    }
+}
+
+.zp-estudiante1{
+    animation: carrusel-estudiante1 10s infinite alternate;
+}
+@keyframes carrusel-estudiante1 {
+    0% {
+        background-image: url(../images/Z-Pictures/Estudiante1/20240122_104751.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 0% 0%;
+    }
+    25% {
+        background-image: url(../images/Z-Pictures/Estudiante1/20240122_104757.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 25% 25%;
+    }
+    50% {
+        background-image: url(../images/Z-Pictures/Estudiante1/20240122_104805.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50% 50%;
+    }
+    75% {
+        background-image: url(../images/Z-Pictures/Estudiante1/20240122_104837.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 75% 75%;
+    }
+    100% {
+        background-image: url(../images/Z-Pictures/Estudiante1/20240122_104751.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 100% 100%;
+    }
+}
+
+.zp-salon{
+    animation: carrusel-salon 10s infinite alternate;
+}
+@keyframes carrusel-salon {
+    0% {
+        background-image: url(../images/Z-Pictures/Salon/20240122_104935.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 0% 0%;
+    }
+    50% {
+        background-image: url(../images/Z-Pictures/Salon/20240122_104942.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50% 50%;
+    }
+    100% {
+        background-image: url(../images/Z-Pictures/Salon/20240122_104935.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 100% 100%;
+    }
+}
+
+.zp-alrededor{
+    animation: carrusel-alrededor 10s infinite alternate;
+}
+@keyframes carrusel-alrededor {
+    0% {
+        background-image: url(../images/Z-Pictures/Alrededor/20240122_101905.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 0% 0%;
+    }
+    50% {
+        background-image: url(../images/Z-Pictures/Alrededor/20240122_101953.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50% 50%;
+    }
+    100% {
+        background-image: url(../images/Z-Pictures/Alrededor/20240122_101905.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 100% 100%;
+    }
+}
+
+.zp-exterior{
+    animation: carrusel-exterior 10s infinite alternate;
+}
+@keyframes carrusel-exterior {
+    0% {
+        background-image: url(../images/Z-Pictures/Exterior/20240122_101800.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 0% 0%;
+    }
+    25% {
+        background-image: url(../images/Z-Pictures/Exterior/20240122_101831.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 25% 25%;
+    }
+    50% {
+        background-image: url(../images/Z-Pictures/Exterior/20240122_101857.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50% 50%;
+    }
+    75% {
+        background-image: url(../images/Z-Pictures/Exterior/20240122_102002.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 75% 75%;
+    }
+    100% {
+        background-image: url(../images/Z-Pictures/Exterior/20240122_101800.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 100% 100%;
+    }
+}
+
+.zp-cancha{
+    animation: carrusel-cancha 10s infinite alternate;
+}
+@keyframes carrusel-cancha {
+    0% {
+        background-image: url(../images/Z-Pictures/Cancha/20240122_104420.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 0% 0%;
+    }
+    25% {
+        background-image: url(../images/Z-Pictures/Cancha/20240122_104445.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 25% 25%;
+    }
+    50% {
+        background-image: url(../images/Z-Pictures/Cancha/20240122_104450.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50% 50%;
+    }
+    75% {
+        background-image: url(../images/Z-Pictures/Cancha/20240122_104503.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 75% 75%;
+    }
+    100% {
+        background-image: url(../images/Z-Pictures/Cancha/20240122_104420.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 100% 100%;
+    }
+}
+
+.zp-interior{
+    animation: carrusel-interior 10s infinite alternate;
+}
+@keyframes carrusel-interior {
+    0% {
+        background-image: url(../images/Z-Pictures/Interior/20240122_104628.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 0% 0%;
+    }
+    50% {
+        background-image: url(../images/Z-Pictures/Interior/20240122_104642.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50% 50%;
+    }
+    100% {
+        background-image: url(../images/Z-Pictures/Interior/20240122_104628.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 100% 100%;
+    }
+}
+
+.zp-pasillo{
+    animation: carrusel-pasillo 10s infinite alternate;
+}
+@keyframes carrusel-pasillo {
+    0% {
+        background-image: url(../images/Z-Pictures/Pasillo/20240122_104139.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 0% 0%;
+    }
+    25% {
+        background-image: url(../images/Z-Pictures/Pasillo/20240122_104213.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 25% 25%;
+    }
+    50% {
+        background-image: url(../images/Z-Pictures/Pasillo/20240122_104234.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50% 50%;
+    }
+    75% {
+        background-image: url(../images/Z-Pictures/Pasillo/20240122_104244.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 75% 75%;
+    }
+    100% {
+        background-image: url(../images/Z-Pictures/Pasillo/20240122_104139.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 100% 100%;
+    }
+}
+
+.zp-principal{
+    animation: carrusel-principal 10s infinite alternate;
+}
+@keyframes carrusel-principal {
+    0% {
+        background-image: url(../images/Z-Pictures/Principal/20240122_105108.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 0% 0%;
+    }
+    25% {
+        background-image: url(../images/Z-Pictures/Principal/20240122_105118.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 25% 25%;
+    }
+    50% {
+        background-image: url(../images/Z-Pictures/Principal/20240122_105121.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50% 50%;
+    }
+    75% {
+        background-image: url(../images/Z-Pictures/Principal/20240122_105118.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 75% 75%;
+    }
+    100% {
+        background-image: url(../images/Z-Pictures/Principal/20240122_105108.webp);background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 100% 100%;
+    }
+}

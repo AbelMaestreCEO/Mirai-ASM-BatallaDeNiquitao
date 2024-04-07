@@ -1,0 +1,25 @@
+/* Busquedad INICIO */
+
+.busqueda{
+    aspect-ratio: 16/0.5;
+    max-width: 30vw;
+    max-height: 4vh;
+    border-radius: 1vw;
+    margin-top: 1vh;
+    padding-top: 0.5vh;
+    padding-bottom: 0.5vh;
+    padding-right: 1vw;
+    padding-left: 3.5vw; /* ajusta el padding para que no se solape el texto con el icono */
+    margin-left: 1vw;
+    background-color: #f5f5f5;
+    font-size: 1.25vw;
+    float: left;
+    background-image: url(../images/Acciones/Buscar.webp);
+    background-position: 1vw center;
+    background-repeat: no-repeat;
+    background-size: 2vw 2vh; /* ajusta el tamaño del icono */
+    
+}
+.busqueda:hover{
+    background-color: #e5e5e5;
+}

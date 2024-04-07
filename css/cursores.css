@@ -1,0 +1,89 @@
+/* Normales */
+
+.cursor-negro{
+    cursor: url(../images/Cursores/Normal-negro.png), auto;
+}
+
+.cursor-rojo{
+    cursor: url(../images/Cursores/Normal-rojo.png), auto;
+}
+
+.cursor-azul{
+    cursor: url(../images/Cursores/Normal-azul.png), auto;
+}
+
+.cursor-verde{
+    cursor: url(../images/Cursores/Normal-verde.png), auto;
+}
+
+.cursor-rosa{
+    cursor: url(../images/Cursores/Normal-rosa.png), auto;
+}
+
+.cursor-morado{
+    cursor: url(../images/Cursores/Normal-morado.png), auto;
+}
+
+.cursor-amarillo{
+    cursor: url(../images/Cursores/Normal-amarillo.png), auto;
+}
+
+/* Punteros */
+
+.pointer-negro{
+    cursor: url(../images/Cursores/Pointer-negro.png), pointer !important;
+}
+
+.pointer-rojo{
+    cursor: url(../images/Cursores/Pointer-rojo.png), pointer !important;
+}
+
+.pointer-azul{
+    cursor: url(../images/Cursores/Pointer-azul.png), pointer !important;
+}
+
+.pointer-verde{
+    cursor: url(../images/Cursores/Pointer-verde.png), pointer !important;
+}
+
+.pointer-rosa{
+    cursor: url(../images/Cursores/Pointer-rosa.png), pointer !important;
+}
+
+.pointer-morado{
+    cursor: url(../images/Cursores/Pointer-morado.png), pointer !important;
+}
+
+.pointer-amarillo{
+    cursor: url(../images/Cursores/Pointer-amarillo.png), pointer !important;
+}
+
+/* Texto */
+
+.text-negro{
+    cursor: url(../images/Cursores/Text-negro.png), text !important;
+}
+
+.text-rojo{
+    cursor: url(../images/Cursores/Text-rojo.png), text !important;
+}
+
+.text-azul{
+    cursor: url(../images/Cursores/Text-azul.png), text !important;
+}
+
+.text-verde{
+    cursor: url(../images/Cursores/Text-verde.png), text !important;
+}
+
+.text-morado{
+    cursor: url(../images/Cursores/Text-morado.png), text !important;
+}
+
+.text-rosa{
+    cursor: url(../images/Cursores/Text-rosa.png), text !important;
+}
+
+.text-amarillo{
+    cursor: url(../images/Cursores/Text-amarillo.png), text !important;
+}

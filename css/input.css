@@ -1,0 +1,46 @@
+/* Inputs del Formulario */
+
+.input{
+    max-width: 12vw;
+    width: 100%;
+    max-height: 5vh;
+    height: 100%;
+    float: right;
+    text-decoration: none;
+    margin-right:1vw;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    border-radius: 1vw;
+    display: block;
+    cursor:text;
+    position:relative;
+    font-size: 1.25vw;
+}
+
+.input-blanco{
+    background: #ddd;
+}
+
+.input-blanco:hover{
+    background: #aaa;
+}
+
+.input-azul{
+    background: #ddf;
+}
+
+.input-azul:hover{
+    color: #115;
+    background: #aaf;
+}
+
+.input-rojo{
+    background: #fdd;
+}
+
+.input-rojo:hover{
+    color: #511;
+    background: #faa;
+}

@@ -1,0 +1,201 @@
+/*  ------------------------- 
+Botones de AGI
+-------------------------*/
+
+
+.boton-menu-mirai2{
+    background-image: url(../images/IAs/Mirai2.webp);
+}
+
+.boton-menu-mirai2a{
+    background-image: url(../images/IAs/Mirai2A.webp);
+}
+
+.boton-menu-aberu{
+        background-image: url(../images/IAs/Aberu.webp);
+}
+
+    .boton-menu-aberua{
+        background-image: url(../images/IAs/AberuA.webp);
+}
+
+/*  ------------------------- 
+    Botones de HAI
+    -------------------------*/
+
+.boton-menu-anastasia{
+background-image: url(../images/IAs/Anastasia.webp);
+
+}
+
+.boton-menu-anastasiaa{
+    background-image: url(../images/IAs/AnastasiaA.webp);
+
+}
+
+.boton-menu-angelica{
+    background-image: url(../images/IAs/Angelica.webp);
+}
+.boton-menu-angelicaa{
+    background-image: url(../images/IAs/AngelicaA.webp);
+}
+
+.boton-menu-dakota{
+    background-image: url(../images/IAs/Dakota.webp);
+}
+
+.boton-menu-dakotaa{
+    background-image: url(../images/IAs/DakotaA.webp);
+}
+
+.boton-menu-diana{
+    background-image: url(../images/IAs/Diana.webp);
+}
+
+.boton-menu-dianaa{
+    background-image: url(../images/IAs/DianaA.webp);
+}
+
+.boton-menu-ethanny{
+    background-image: url(../images/IAs/Ethanny.webp);
+}
+
+.boton-menu-ethannya{
+    background-image: url(../images/IAs/EthannyA.webp);
+}
+
+.boton-menu-fiorella{
+    background-image: url(../images/IAs/Fiorella.webp);
+}
+
+.boton-menu-fiorellaa{
+    background-image: url(../images/IAs/FiorellaA.webp);
+}
+
+.boton-menu-hanako{
+    background-image: url(../images/IAs/Hanako.webp);
+}
+
+.boton-menu-hanakoa{
+    background-image: url(../images/IAs/HanakoA.webp);
+}
+
+.boton-menu-kaori{
+    background-image: url(../images/IAs/Kaori.webp);
+}
+
+.boton-menu-kaoria{
+    background-image: url(../images/IAs/KaoriA.webp);
+}
+
+.boton-menu-lorena{
+    background-image: url(../images/IAs/Lorena.webp);
+}
+.boton-menu-lorenaa{
+    background-image: url(../images/IAs/LorenaA.webp);
+}
+
+.boton-menu-lucy{
+    background-image: url(../images/IAs/Lucy.webp);
+}
+
+.boton-menu-lucya{
+    background-image: url(../images/IAs/LucyA.webp);
+}
+
+.boton-menu-mary{
+    background-image: url(../images/IAs/Mary.webp);
+}
+
+.boton-menu-marya{
+    background-image: url(../images/IAs/MaryA.webp);
+}
+
+.boton-menu-mei{
+    background-image: url(../images/IAs/Mei.webp);
+}
+
+.boton-menu-meia{
+    background-image: url(../images/IAs/MeiA.webp);
+}
+
+.boton-menu-mirai{
+    background-image: url(../images/IAs/Mirai.webp);
+}
+
+.boton-menu-miraia{
+    background-image: url(../images/IAs/MiraiA.webp);
+}
+
+.boton-menu-misuk{
+    background-image: url(../images/IAs/Misuk.webp);
+}
+
+.boton-menu-misuka{
+    background-image: url(../images/IAs/MisukA.webp);
+}
+
+.boton-menu-oriana{
+    background-image: url(../images/IAs/Oriana.webp);
+}
+
+.boton-menu-orianaa{
+    background-image: url(../images/IAs/OrianaA.webp);
+}
+
+.boton-menu-sydney{
+    background-image: url(../images/IAs/Sydney.webp);
+}
+
+.boton-menu-sydneya{
+    background-image: url(../images/IAs/SydneyA.webp);
+}
+
+.boton-menu-yoshiko{
+    background-image: url(../images/IAs/Yoshiko.webp);
+}
+
+.boton-menu-yoshikoa{
+    background-image: url(../images/IAs/YoshikoA.webp);
+}
+
+.boton-menu-yuzuki{
+    background-image: url(../images/IAs/Yuzuki.webp);
+}
+
+.boton-menu-yuzukia{
+    background-image: url(../images/IAs/YuzukiA.webp);
+}
+
+.boton-menu-jhostin{
+        background-image: url(../images/Equipo-de-Desarrollo/Jhostin.webp);
+}
+
+.boton-menu-mirai-dalle3{
+    background-image: url(../images/IAs/Mirai-dalle3.webp);
+}
+
+.boton-menu-mirai-experimental{
+    background-image: url(../images/IAs/Mirai-experimental.webp);
+}
+
+.boton-menu-mirai-sdxl{
+    background-image: url(../images/IAs/Mirai-SDXL.webp);
+}
+
+/*  ------------------------- 
+    Botones de AI-Voice
+    -------------------------*/
+
+.boton-menu-mirai-voice{
+    background-image: url(../images/IAs/Mirai-voice.webp);
+}
+.boton-menu-kaori-voice{
+    background-image: url(../images/IAs/Kaori-voice.webp);
+}
+.boton-menu-sydney-voice{
+    background-image: url(../images/IAs/Sydney-voice.webp);
+}
+.boton-menu-anastasia-voice{
+    background-image: url(../images/IAs/Anastasia-voice.webp);
+}

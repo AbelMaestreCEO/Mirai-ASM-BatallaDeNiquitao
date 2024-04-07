@@ -1,0 +1,27 @@
+/*  ------------------------- 
+    Botones Laterales de Actores
+    -------------------------*/
+
+.boton-lateral{
+    width: 2.5vw;
+    padding:1%;
+    aspect-ratio: 1/1;
+    box-sizing: border-box;
+    border-radius: 30%;
+    margin-top: 0.75vh;
+    margin-bottom: 0.75vh;
+    margin-right: 0.75vw;
+    margin-left: 0.75vw;
+    background-size: cover;
+    background-position: center;
+}
+.boton-lateral:hover{
+    cursor:pointer;
+    border-radius: 100%;
+}
+.boton-lateral-derecho{
+    float:right;
+}
+.boton-lateral-izquierdo{
+    float:left;
+}

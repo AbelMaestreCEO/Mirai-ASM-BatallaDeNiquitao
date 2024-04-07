@@ -1,0 +1,107 @@
+/* Navegación Vertical */
+.navv{
+    width: 5vw;
+    margin-top: 1vh;
+    padding-bottom:auto;
+    height: 82.5vh;
+    min-height: 82.5vh;
+}
+
+.navvi{
+    float: left;
+    border-top-right-radius: 2vw;
+    border-bottom-right-radius: 2vw;
+    border-bottom-left-radius: 1vw;
+    border-top-left-radius: 1vw;
+    margin-left: 0.25vw;
+}
+
+.navvd{
+    float: right;
+    border-top-right-radius: 1vw;
+    border-bottom-right-radius: 1vw;
+    border-bottom-left-radius: 2vw;
+    border-top-left-radius: 2vw;
+    margin-right: 0.25vw;
+}
+
+.sello-lateral{
+    height: 8vh;
+    width: 8vw;
+    opacity: 1;
+    margin-top: -10vh;
+    position: relative;
+    float: right;
+    margin-right: 1vw;
+    margin-left: auto;
+}
+.text-menuv{
+    font-size: 1.75vh;
+}
+
+.titulo-menuv{
+    font-size: 2.75vh;
+    text-align: center;
+}
+
+.navv ul{
+    list-style: none;
+    
+}
+
+.menuv{
+    display: inline-block;
+    overflow-y: auto;
+    max-height: 82vh;
+    max-width: 16vw;
+}
+
+.menuv > li{
+    position:relative;
+    display: inline-block;
+    width: 100%;
+}
+
+.menuv > li > a{
+    display: block;
+    padding-right: 0.125vw;
+    padding-left: 0.125vw;
+    padding-top: 0.125vh;
+    padding-bottom: 0.125vh;
+    margin-left: 0.5vw;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    text-decoration: none;
+}
+
+.menuv > li > a:hover{
+    font-weight: bolder;
+    color:#115;
+}
+
+.sub-menuv{
+    position: absolute;
+    float: left;
+    width: 120%;
+    visibility: hidden;
+    opacity: 0;
+    border-top-right-radius: 2vw;
+    border-bottom-right-radius: 2vw;
+}
+
+.sub-menuv li a{
+    display: block;
+    padding: 0.8vw;
+    margin-left: 1vw;
+    text-decoration: none;
+}
+
+.menuv li:hover .sub-menuv{
+    visibility:visible;
+    opacity: 1;
+}
+
+.sub-menuv > li > a:hover{
+    font-weight: bolder;
+    color:#115;
+}

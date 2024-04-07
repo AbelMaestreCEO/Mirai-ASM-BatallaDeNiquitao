@@ -1,0 +1,81 @@
+.scroll::-webkit-scrollbar{
+    width: 1vw;
+    aspect-ratio: 1/1;
+}
+.scroll::-webkit-scrollbar-thumb{
+    border-radius: 1vw;
+    /*
+    -webkit-backdrop-filter: blur(0.25vw);
+    backdrop-filter: blur(0.25vw);
+    */
+    background: rgba(145, 145, 245, 0.85);
+    border: 0.1rem solid #000000;
+    transition: all 0.3s ease-in-out 0s;
+		-moz-transition: all 0.3s ease-in-out 0s;
+		-webkit-transition: all 0.3s ease-in-out 0s;
+		-o-transition: all 0.3s ease-in-out 0s;
+		-ms-transition: all 0.3s ease-in-out 0s;
+}
+.scroll::-webkit-scrollbar-thumb:hover{
+    /*
+    -webkit-backdrop-filter: blur(0.25vw);
+    backdrop-filter: blur(0.25vw);
+    */
+    background: rgba(45, 45, 145, 0.85);
+}
+
+.scroll-rojo::-webkit-scrollbar-thumb{
+    background: rgba(245, 145, 145, 0.85);
+}
+
+.scroll-rojo::-webkit-scrollbar-thumb:hover{
+    background: rgba(145, 45, 45, 0.85);
+}
+
+.scroll-verde::-webkit-scrollbar-thumb{
+    background: rgba(145, 245, 145, 0.85);
+}
+
+.scroll-verde::-webkit-scrollbar-thumb:hover{
+    background: rgba(45, 145, 45, 0.85);
+}
+
+.scroll-amarillo::-webkit-scrollbar-thumb{
+    background: rgba(245, 245, 145, 0.85);
+}
+
+.scroll-amarillo::-webkit-scrollbar-thumb:hover{
+    background: rgba(145, 145, 45, 0.85);
+}
+
+.scroll-morado::-webkit-scrollbar-thumb{
+    background: rgba(245, 145, 245, 0.85);
+}
+
+.scroll-morado::-webkit-scrollbar-thumb:hover{
+    background: rgba(145, 45, 145, 0.85);
+}
+
+.scroll-celeste::-webkit-scrollbar-thumb{
+    background: rgba(145, 245, 245, 0.85);
+}
+
+.scroll-celeste::-webkit-scrollbar-thumb:hover{
+    background: rgba(45, 145, 145, 0.85);
+}
+
+.scroll-rosa::-webkit-scrollbar-thumb{
+    background: rgba(245, 145, 190, 0.85);
+}
+
+.scroll-rosa::-webkit-scrollbar-thumb:hover{
+    background: rgba(145, 45, 90, 0.85);
+}
+
+.scroll-blanco::-webkit-scrollbar-thumb{
+    background: rgba(245, 245, 245, 0.85);
+}
+
+.scroll-blanco::-webkit-scrollbar-thumb:hover{
+    background: rgba(145, 145, 145, 0.85);
+}

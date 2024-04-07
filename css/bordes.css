@@ -1,0 +1,35 @@
+.borde-azul{
+    border: 0.1rem solid #000050;
+}
+
+.borde-rojo{
+    border: 0.1rem solid #500000;
+}
+
+.borde-verde{
+    border: 0.1rem solid #005000;
+}
+
+.borde-morado{
+    border: 0.1rem solid #500050;
+}
+
+.borde-rosa{
+    border: 0.1rem solid #800050;
+}
+
+.borde-celeste{
+    border: 0.1rem solid #005050;
+}
+
+.borde-amarillo{
+    border: 0.1rem solid #505000;
+}
+
+.borde-gris{
+    border: 0.1rem solid #505050;
+}
+
+.borde-negro{
+    border: 0.1rem solid #000000;
+}

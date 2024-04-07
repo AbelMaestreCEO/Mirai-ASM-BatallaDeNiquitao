@@ -1,0 +1,48 @@
+.mensaje-PHP{
+    display:table;
+    max-width: 25vw;
+    position:relative;
+    max-height: 5vh;
+    font-size: 1.5vh;
+    font-weight: bold;
+    border-radius: 0.5vw;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    cursor: url(../images/Cursores/Invalido.png), not-allowed !important;
+}
+.mensaje-PHP:hover{
+    border-radius: 1vw;
+    cursor: not-allowed;
+    background-color: #111;
+}
+
+.preparado{
+    border: 1px solid #ddf;
+    color: #ddf;
+    background-color: #115;
+}
+
+.bueno{
+    border: 1px solid #dfd;
+    color: #dfd;
+    background-color: #151;
+}
+
+.malo{
+    border: 1px solid #fdd;
+    color: #fdd;
+    background-color: #511;
+}
+
+.precaucion{
+    border: 1px solid #ffd;
+    color: #ffd;
+    background-color: #551;
+}

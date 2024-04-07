@@ -1,0 +1,509 @@
+.imagen-estudiante-1{
+    background-image: url(../images/Iconos/EstudianteI.svg);
+}
+
+.imagen-estudiante-2{
+    background-image: url(../images/Iconos/EstudianteII.svg);
+}
+
+.imagen-matricula{
+    background-image: url(../images/Iconos/Matricula.svg);
+}
+
+.imagen-contrato{
+    background-image: url(../images/Iconos/Contrato.svg);
+}
+
+.imagen-usuario{
+    background-image: url(../images/Iconos/Usuario.svg);
+}
+
+.imagen-chatbot{
+    background-image: url(../images/Iconos/Chatbot.svg);
+}
+
+.imagen-image-generator{
+    background-image: url(../images/Iconos/Image-Generator.svg);
+}
+
+.imagen-voice{
+    background-image: url(../images/Iconos/Voice.svg);
+}
+
+.imagen-base{
+    background-image: url(../images/Iconos/Base.svg);
+}
+
+.imagen-representante{
+    background-image: url(../images/Iconos/Representante.svg);
+}
+
+.imagen-profesor{
+    background-image: url(../images/Iconos/Profesor.svg);
+}
+
+.imagen-materia{
+    background-image: url(../images/Iconos/Materia.svg);
+}
+
+.imagen-seccion{
+    background-image: url(../images/Iconos/Seccion.svg);
+}
+
+.imagen-nota{
+    background-image: url(../images/Iconos/Nota.svg);
+}
+
+.imagen-administrador{
+    background-image: url(../images/Iconos/Administrador.webp);
+}
+
+.imagen-asistente{
+    background-image: url(../images/Iconos/Asistente.webp);
+}
+
+.imagen-mensualidad{
+    background-image: url(../images/Iconos/Mensualidad.svg);
+}
+
+.imagen-obrero{
+    background-image: url(../images/Iconos/Obrero.webp);
+}
+
+.imagen-acerca-de{
+    background-image: url(../images/Iconos/Acerca.svg);
+}
+
+.imagen-ajuste{
+    background-image: url(../images/Acciones/Ajustes.svg);
+}
+.imagen-mirai-ai{
+    background-image: url(../images/Iconos/Mirai.webp);
+}
+
+.imagen-mas{
+    background-image: url(../images/Acciones/Mas.webp);
+}
+
+.imagen-reloj{
+    background-image: url(../images/Acciones/Reloj.svg);
+}
+
+.imagen-busqueda{
+    background-image: url(../images/Acciones/Busqueda.svg);
+}
+
+.imagen-avanzar{
+    background-image: url(../images/Acciones/Avanzar.svg);
+}
+
+.imagen-retroceder{
+    background-image: url(../images/Acciones/Retroceder.svg);
+}
+
+.imagen-atras{
+    background-image: url(../images/Acciones/Atras.svg);
+}
+
+.imagen-hogar{
+    background-image: url(../images/Acciones/Hogar.svg);
+}
+
+.imagen-adelante{
+    background-image: url(../images/Acciones/Adelante.svg);
+}
+
+.imagen-tema{
+    background-image: url(../images/Acciones/Tema.svg);
+}
+
+.imagen-parroquia{
+    background-image: url(../images/Iconos/Parroquia.svg);
+}
+.imagen-pagina-adelante{
+    background-image: url(../images/Menu-2/Flecha-derecha.svg);
+}
+.imagen-pagina-atras{
+    background-image: url(../images/Menu-2/Flecha-izquierda.svg);
+}
+.imagen-captura{
+    background-image: url(../images/Menu-2/Captura.svg);
+}
+.imagen-imprimir{
+    background-image: url(../images/Menu-2/Imprimir.svg);
+}
+.imagen-maximizar{
+    background-image: url(../images/Acciones/Maximizar.svg);
+}
+.imagen-pdf{
+    background-image: url(../images/Acciones/Pdf.svg);
+    cursor: url(../images/Cursores/Imprimir.png), pointer !important;
+}
+
+/*  ------------------------- 
+Botones de AGI
+-------------------------*/
+
+
+.imagen-mirai2{
+    background-image: url(../images/IAs/Mirai2.webp);
+}
+
+.imagen-mirai2a{
+    background-image: url(../images/IAs/Mirai2A.webp);
+}
+
+.imagen-aberu{
+     background-image: url(../images/IAs/Aberu.webp);
+}
+
+.imagen-aberua{
+     background-image: url(../images/IAs/AberuA.webp);
+}
+
+/*  ------------------------- 
+    Botones de HAI
+    -------------------------*/
+
+.imagen-anastasia{
+background-image: url(../images/IAs/Anastasia.webp);
+
+}
+
+.imagen-anastasiaa{
+    background-image: url(../images/IAs/AnastasiaA.webp);
+
+}
+
+.imagen-angelica{
+    background-image: url(../images/IAs/Angelica.webp);
+}
+.imagen-angelicaa{
+    background-image: url(../images/IAs/AngelicaA.webp);
+}
+
+.imagen-dakota{
+    background-image: url(../images/IAs/Dakota.webp);
+}
+
+.imagen-dakotaa{
+    background-image: url(../images/IAs/DakotaA.webp);
+}
+
+.imagen-diana{
+    background-image: url(../images/IAs/Diana.webp);
+}
+
+.imagen-dianaa{
+    background-image: url(../images/IAs/DianaA.webp);
+}
+
+.imagen-ethanny{
+    background-image: url(../images/IAs/Ethanny.webp);
+}
+
+.imagen-ethannya{
+    background-image: url(../images/IAs/EthannyA.webp);
+}
+
+.imagen-fiorella{
+    background-image: url(../images/IAs/Fiorella.webp);
+}
+
+.imagen-fiorellaa{
+    background-image: url(../images/IAs/FiorellaA.webp);
+}
+
+.imagen-hanako{
+    background-image: url(../images/IAs/Hanako.webp);
+}
+
+.imagen-hanakoa{
+    background-image: url(../images/IAs/HanakoA.webp);
+}
+
+.imagen-kaori{
+    background-image: url(../images/IAs/Kaori.webp);
+}
+
+.imagen-kaoria{
+    background-image: url(../images/IAs/KaoriA.webp);
+}
+
+.imagen-lorena{
+    background-image: url(../images/IAs/Lorena.webp);
+}
+.imagen-lorenaa{
+    background-image: url(../images/IAs/LorenaA.webp);
+}
+
+.imagen-lucy{
+    background-image: url(../images/IAs/Lucy.webp);
+}
+
+.imagen-lucya{
+    background-image: url(../images/IAs/LucyA.webp);
+}
+
+.imagen-mary{
+    background-image: url(../images/IAs/Mary.webp);
+}
+
+.imagen-marya{
+    background-image: url(../images/IAs/MaryA.webp);
+}
+
+.imagen-mei{
+    background-image: url(../images/IAs/Mei.webp);
+}
+
+.imagen-meia{
+    background-image: url(../images/IAs/MeiA.webp);
+}
+
+.imagen-mirai{
+    background-image: url(../images/IAs/Mirai.webp);
+}
+
+.imagen-miraia{
+    background-image: url(../images/IAs/MiraiA.webp);
+}
+
+.imagen-misuk{
+    background-image: url(../images/IAs/Misuk.webp);
+}
+
+.imagen-misuka{
+    background-image: url(../images/IAs/MisukA.webp);
+}
+
+.imagen-oriana{
+    background-image: url(../images/IAs/Oriana.webp);
+}
+
+.imagen-orianaa{
+    background-image: url(../images/IAs/OrianaA.webp);
+}
+
+.imagen-sydney{
+    background-image: url(../images/IAs/Sydney.webp);
+}
+
+.imagen-sydneya{
+    background-image: url(../images/IAs/SydneyA.webp);
+}
+
+.imagen-yoshiko{
+    background-image: url(../images/IAs/Yoshiko.webp);
+}
+
+.imagen-yoshikoa{
+    background-image: url(../images/IAs/YoshikoA.webp);
+}
+
+.imagen-yuzuki{
+    background-image: url(../images/IAs/Yuzuki.webp);
+}
+
+.imagen-yuzukia{
+    background-image: url(../images/IAs/YuzukiA.webp);
+}
+
+.imagen-mirai-dalle3{
+    background-image: url(../images/IAs/Mirai-dalle3.webp);
+}
+
+.imagen-mirai-experimental{
+    background-image: url(../images/IAs/Mirai-experimental.webp);
+}
+
+.imagen-mirai-sdxl{
+    background-image: url(../images/IAs/Mirai-SDXL.webp);
+}
+
+/*  ------------------------- 
+    Botones de AI-Voice
+    -------------------------*/
+
+.imagen-mirai-voice{
+    background-image: url(../images/IAs/Mirai-voice.webp);
+}
+.imagen-kaori-voice{
+    background-image: url(../images/IAs/Kaori-voice.webp);
+}
+.imagen-sydney-voice{
+    background-image: url(../images/IAs/Sydney-voice.webp);
+}
+.imagen-anastasia-voice{
+    background-image: url(../images/IAs/Anastasia-voice.webp);
+}
+
+/* Menu Superior */
+
+.imagen-niquitao{
+    background-image: url(../images/UEP3.svg);
+    }
+
+.imagen-cierre{
+    float: left;
+    background-image: url(../images/Ventana/Cierre.svg);
+    cursor: url(../images/Cursores/Cerrar.png), pointer !important;
+}
+.imagen-cierre:hover{
+    background-image: url(../images/Ventana/Cierre-black.svg);
+}
+
+.imagen-ayuda{
+    float: left;
+    background-image: url(../images/Ventana/Ayuda.svg);
+    cursor: url(../images/Cursores/Ayuda.png), help !important;
+}
+.imagen-ayuda:hover{
+    cursor: help;
+    background-image: url(../images/Ventana/Ayuda-black.svg);
+}
+
+.imagen-perfil{
+    float: left;
+    background-image: url(../images/Ventana/Perfil.svg);
+    cursor: url(../images/Cursores/Contacto.png), pointer !important;
+}
+.imagen-perfil:hover{
+    cursor:pointer;
+    background-image: url(../images/Ventana/Perfil-black.svg);
+}
+
+.imagen-buscar{
+    float: left;
+    background-image: url(../images/Ventana/Buscar.svg);
+    cursor: url(../images/Cursores/Busqueda.png), pointer !important;
+}
+.imagen-buscar:hover{
+    cursor:pointer;
+    background-image: url(../images/Ventana/Buscar-black.svg);
+}
+
+/*  ------------------------- 
+Botones de Funciones Superiores
+-------------------------*/
+
+.imagen-agregar{
+background-image: url(../images/Funciones/Agregar.svg);
+cursor: url(../images/Cursores/Agregar.png), pointer !important;
+}
+
+.imagen-eliminar{
+background-image: url(../images/Funciones/Eliminar.svg);
+cursor: url(../images/Cursores/Eliminar.png), pointer !important;
+}
+
+.imagen-actualizar{
+background-image: url(../images/Funciones/Actualizar.svg);
+cursor: url(../images/Cursores/Actualizar.png), pointer !important;
+}
+
+.imagen-consultar{
+background-image: url(../images/Funciones/Consultar.svg);
+cursor: url(../images/Cursores/Consultar.png), pointer !important;
+}
+
+.imagen-amc{
+background-image: url(../images/AMC.webp);
+}
+
+.imagen-aberu-icon{
+background-image: url(../images/Aberu.webp);
+}
+
+.imagen-bloquear{
+background-image: url(../images/Funciones/Bloqueado.svg);
+cursor: url(../images/Cursores/Invalido.png), not-allowed !important;
+}
+.imagen-bloquear:hover{
+cursor:not-allowed;
+}
+
+/* Equipo de desarrollo */
+
+.imagen-jhostin{
+    background-image: url(../images/Equipo-de-Desarrollo/Jhostin.webp);
+}
+
+/* Login */
+
+.imagen-login{
+    background-image: url(../images/Acciones/Login.svg);
+}
+
+
+.imagen-register{
+    background-image: url(../images/Acciones/Registro.svg);
+}
+
+.imagen-soporte{
+    background-image: url(../images/Acciones/Soporte.svg);
+}
+
+.imagen-manual{
+    background-image: url(../images/Acciones/Manual.svg);
+}
+
+/* Direcciones */
+
+.imagen-casa{
+    background-image: url(../images/Iconos/Casa.svg);
+}
+
+.imagen-calle{
+    background-image: url(../images/Iconos/Calle.svg);
+}
+
+.imagen-vereda{
+    background-image: url(../images/Iconos/Vereda.svg);
+}
+
+.imagen-piso{
+    background-image: url(../images/Iconos/Piso.svg);
+}
+
+.imagen-edificio{
+    background-image: url(../images/Iconos/Edificio.svg);
+}
+
+.imagen-punto{
+    background-image: url(../images/Iconos/Punto.svg);
+}
+
+.imagen-parroquias{
+    background-image: url(../images/Iconos/Parroquias.svg);
+}
+
+.imagen-ciudad{
+    background-image: url(../images/Iconos/Ciudad.svg);
+}
+
+.imagen-municipio{
+    background-image: url(../images/Iconos/Municipio.svg);
+}
+
+.imagen-estado{
+    background-image: url(../images/Iconos/Estado.svg);
+}
+
+/* Formularios */
+
+.imagen-telefono{
+    background-image: url(../images/Iconos/Telefono.svg);
+}
+
+.imagen-correo{
+    background-image: url(../images/Iconos/Correo.svg);
+}
+
+.imagen-cedula{
+    background-image: url(../images/Iconos/cedula.svg);
+}
+
+.imagen-nacimiento{
+    background-image: url(../images/Iconos/nacimiento.svg);
+}

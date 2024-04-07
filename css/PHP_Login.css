@@ -1,0 +1,40 @@
+.mensaje-login{
+    max-width: 80%;
+    position:relative;
+    font-size: 2vh;
+    font-weight: bold;
+    color: #111;
+    border-radius: 0.5vw;
+    text-align: center;
+    padding-left: 0.5vw;
+    padding-right: 0.5vw;
+    padding-top: 0.5vh;
+    padding-bottom: 0.5vh;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: url(../images/Cursores/Invalido.png), not-allowed !important;
+}
+.mensaje-login:hover{
+    border-radius: 1vw;
+    cursor: not-allowed;
+}
+
+.preparado-login{
+    background-color: #ddf;
+    border: 1px solid #115;
+}
+
+.bueno-login{
+    background-color: #dfd;
+    border: 1px solid #151;
+}
+
+.malo-login{
+    background-color: #fdd;
+    border: 1px solid #511;
+}
+
+.precaucion-login{
+    background-color: #ffd;
+    border: 1px solid #551;
+}

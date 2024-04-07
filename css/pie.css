@@ -1,0 +1,150 @@
+/* Navegación Inferior */
+.pie{
+    width: 100%;
+    max-width: 33vw;
+    border-top-left-radius: 1vw;
+    border-bottom-left-radius: 1vw;
+    border-top-right-radius: 1vw;
+    border-bottom-right-radius: 1vw;
+    max-height: 8vh;
+    position: relative;
+    bottom: -0.5vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pie-registro{
+    max-width: 46vw;
+}
+
+.pie-hogar{
+    width: 100%;
+    max-width: 58vw;
+}
+
+.pie-icon{
+    bottom: -0.5vh;
+    width: 5vw;
+    position: relative;
+    height: 90%;
+}
+
+.pie-large{
+    bottom: -0.5vh;
+    width: 19vw;
+    height: 8vh;
+    position: relative;
+}
+
+.pie-large-izquierda > a{
+    margin-left: 1vw;
+    float: left;
+    font-size: 1vw;
+}
+
+.pie-large-izquierda > p{
+    margin-top: 1.5vh;
+    margin-right: 1vw;
+    float: right;
+    font-size: 1vw;
+}
+
+.pie-large-derecha > a{
+    float: right;
+    margin-right: 1vw;
+    font-size: 1vw;
+}
+.pie-large-derecha > p{
+    margin-top: 0.5vh;
+    margin-left: 1vw;
+    float: left;
+    font-size: 1vw;
+}
+
+.boton-pie{
+    width: 3vw;
+    aspect-ratio: 1/1;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1vh;
+    margin-bottom: auto;
+    border-radius: 30%;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;
+}
+.boton-pie:hover{
+    border-radius: 100%;
+    cursor:pointer;
+}
+
+.pie-derecha{
+    float: right;
+    margin-right: 0.25vw;
+    margin-left: 0.75vw;
+    border-radius: 1vw;
+}
+
+.pie-izquierda{
+    float: left;
+    margin-left: 0.25vw;
+    margin-right: 0.75vw;
+    border-radius: 1vw;
+}
+
+.text-menu2{
+    font-size: 1.75vh;
+    color:#111;
+    margin-right: 0.5vw;
+    margin-left: 0.5vw;
+    text-align: center;
+}
+
+.pie > ul{
+    list-style: none;
+    text-align: center;
+    min-height: 8vh;
+}
+
+.menu-pie > li{
+    position:relative;
+    display:inline-block;
+}
+
+.menu-pie > li > a{
+    display: block;
+    padding-right: 0.25vw;
+    padding-left: 0.25vw;
+    padding-top: 0.5vh;
+    margin-bottom: -2vh;
+    text-decoration: none;
+}
+
+.menu-pie > li > a:hover{
+    font-weight: bolder;
+    color:#115;
+}
+
+/* Pie Login */
+
+.pie-login{
+    width: 100%;
+    border-top-left-radius: 1vw;
+    border-top-right-radius: 1vw;
+    height: 4vh;
+    position:absolute;
+    bottom: 0; 
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+}
+
+.titulo-pie-login{
+    text-align: center;
+    width: 100%;
+    font-size: 1.5vw;
+    display: block;
+    margin: auto;
+    margin-top: 1vh;
+}

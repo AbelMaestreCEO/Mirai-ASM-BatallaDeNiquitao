@@ -1,0 +1,30 @@
+.transicion-corta{
+    transition: all 0.3s ease-in-out 0s;
+		-moz-transition: all 0.3s ease-in-out 0s;
+		-webkit-transition: all 0.3s ease-in-out 0s;
+		-o-transition: all 0.3s ease-in-out 0s;
+		-ms-transition: all 0.3s ease-in-out 0s;
+}
+
+.transicion-larga{
+    transition: all 0.8s ease-in-out 0s;
+		-moz-transition: all 0.8s ease-in-out 0s;
+		-webkit-transition: all 0.8s ease-in-out 0s;
+		-o-transition: all 0.8s ease-in-out 0s;
+		-ms-transition: all 0.8s ease-in-out 0s;
+}
+
+.text-animation{
+	animation: text-animations 5s infinite alternate;
+}
+
+@keyframes text-animations{
+	from{
+		margin-left: 100%;
+    width: 300%;
+	}
+	to{
+		margin-left: 0%;
+    width: 100%;
+	}
+}

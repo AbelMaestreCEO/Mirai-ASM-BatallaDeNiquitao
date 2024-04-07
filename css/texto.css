@@ -1,0 +1,60 @@
+/* Colores */
+
+.texto-blanco{
+    color: #f5f5f5;
+}
+.texto-negro{
+    color: #111;
+}
+.texto-rojo{
+    color: #f53333;
+}
+.texto-azul{
+    color: #3333f5;
+}
+.texto-verde{
+    color: #33f533;
+}
+.texto-celeste{
+    color: #33f5f5;
+}
+.texto-amarillo{
+    color: #f5f533;
+}
+.texto-morado{
+    color: #f533f5; 
+}
+
+/* Bordes */
+
+.texto-borde-blanco{
+    text-shadow: -1px -1px 0 #f5f5f5, 1px -1px 0 #f5f5f5, -1px 1px 0 #f5f5f5, 1px 1px 0 #f5f5f5;
+}
+
+.texto-borde-negro{
+    text-shadow: -1px -1px 0 #111, 1px -1px 0 #111, -1px 1px 0 #111, 1px 1px 0 #111;
+}
+
+.texto-borde-rojo{
+    text-shadow: -1px -1px 0 #511, 1px -1px 0 #511, -1px 1px 0 #511, 1px 1px 0 #511;
+}
+
+.texto-borde-verde{
+    text-shadow: -1px -1px 0 #151, 1px -1px 0 #151, -1px 1px 0 #151, 1px 1px 0 #151;
+}
+
+.texto-borde-azul{
+    text-shadow: -1px -1px 0 #115, 1px -1px 0 #115, -1px 1px 0 #115, 1px 1px 0 #115;
+}
+
+.texto-borde-amarillo{
+    text-shadow: -1px -1px 0 #551, 1px -1px 0 #551, -1px 1px 0 #551, 1px 1px 0 #551;
+}
+
+.texto-borde-celeste{
+    text-shadow: -1px -1px 0 #155, 1px -1px 0 #155, -1px 1px 0 #155, 1px 1px 0 #155;
+}
+
+.texto-borde-morado{
+    text-shadow: -1px -1px 0 #515, 1px -1px 0 #515, -1px 1px 0 #515, 1px 1px 0 #515;
+}

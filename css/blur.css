@@ -1,0 +1,95 @@
+/*.blur{
+    -webkit-backdrop-filter: blur(0.75vw);
+    backdrop-filter: blur(0.75vw);
+}*/
+
+.blur-blanco{
+    background: rgba(245, 245, 245, 0.9);
+}
+
+.blur-negro{
+    background: rgba(5, 5, 5, 0.9);
+}
+
+.blur-gris{
+    background: rgba(45, 45, 45, 0.9);
+}
+
+.blur-rojo{
+    background: rgba(245, 45, 45, 0.9);
+}
+.blur-azul{
+    background: rgba(45, 45, 245, 0.9);
+}
+.blur-verde{
+    background: rgba(45, 245, 45, 0.9);
+}
+.blur-celeste{
+    background: rgba(45, 245, 245, 0.9);
+}
+.blur-amarillo{
+    background: rgba(245, 245, 45, 0.9);
+}
+.blur-morado{
+    background: rgba(245, 45, 245, 0.9);
+}
+.blur-rosa{
+    background: rgba(245, 45, 145, 0.9);
+}
+
+
+/* Colores claros */
+
+.blur-gris-suave{
+    background: rgba(145, 145, 145, 0.9);
+}
+
+.blur-rojo-suave{
+    background: rgba(245, 145, 145, 0.9);
+}
+.blur-azul-suave{
+    background: rgba(145, 145, 245, 0.9);
+}
+.blur-verde-suave{
+    background: rgba(145, 245, 145, 0.9);
+}
+.blur-celeste-suave{
+    background: rgba(145, 245, 245, 0.9);
+}
+.blur-amarillo-suave{
+    background: rgba(245, 245, 145, 0.9);
+}
+.blur-morado-suave{
+    background: rgba(245, 145, 245, 0.9);
+}
+.blur-rosa-suave{
+    background: rgba(245, 145, 200, 0.9);
+}
+
+/* Colores oscuros */
+
+.blur-gris-oscuro{
+    background: rgba(145, 145, 145, 0.9);
+}
+
+.blur-rojo-oscuro{
+    background: rgba(145, 0, 0, 0.9);
+}
+.blur-azul-oscuro{
+    background: rgba(0, 0, 145, 0.9);
+}
+.blur-verde-oscuro{
+    background: rgba(0, 145, 0, 0.9);
+}
+.blur-celeste-oscuro{
+    background: rgba(0, 145, 145, 0.9);
+}
+.blur-amarillo-oscuro{
+    background: rgba(145, 145, 0, 0.9);
+}
+.blur-morado-oscuro{
+    background: rgba(145, 0, 145, 0.9);
+}
+.blur-rosa-oscuro{
+    background: rgba(145, 0, 55, 0.9);
+}

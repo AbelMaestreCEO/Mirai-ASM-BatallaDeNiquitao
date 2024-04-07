@@ -1,0 +1,18 @@
+.boton-login{
+    width: 3vw;
+    aspect-ratio: 1/1;
+    box-sizing: border-box;
+    border-radius: 30%;
+    float: left;
+    margin-top: 1vh;
+    margin-left: 1vw;
+    margin-right: auto;
+    margin-bottom: 1vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.boton-login:hover{
+    border-radius: 100%;
+    cursor:pointer;
+}
