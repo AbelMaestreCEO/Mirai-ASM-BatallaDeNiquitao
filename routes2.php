@@ -1,5 +1,7 @@
 <?php 
 
+/* Prueba de conexión */
+
 $files = scandir('./');
 
 $route = [];
